@@ -1,2 +1,2 @@
 # Thymeleaf
-CRUD com Spring Boot + Hibernate + SQL Server + Lombok
+Spring MVC + Thymeleaf + Hibernate + SQL Server + Spring Boot

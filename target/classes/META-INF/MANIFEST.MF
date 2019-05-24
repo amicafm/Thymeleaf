@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: entrega
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Carambola_65
+Implementation-Vendor-Id: com.bla
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/entrega/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
